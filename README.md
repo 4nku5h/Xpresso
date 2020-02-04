@@ -15,3 +15,8 @@ A library for Binding View
 	dependencies {
 	        implementation 'com.github.4nku5h:Xpresso:0.1.0'
 	}
+# Init Class
+  InitViews initViews=new InitViews(getApplicationContext(),getWindow().getDecorView().getRootView());
+
+# Init Views
+  Button btn=initViews.InitButton(R.id.button);
