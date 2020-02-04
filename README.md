@@ -13,5 +13,5 @@ A library for Binding View
 # Add the dependency
 
 	dependencies {
-	        implementation 'com.github.4nku5h:Xpresso:Tag'
+	        implementation 'com.github.4nku5h:Xpresso:0.1.0'
 	}
